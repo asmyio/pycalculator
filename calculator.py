@@ -1,24 +1,3 @@
-# you have to crete a flow:
-
-# this was maybe user input group la
-# user will input a number
-# user will input another number
-# user will choose what calculation they want
-
-# tis was mabe... uh... calculation hroup la
-# if the user selects +, the two numbers will add
-# if the user selects -, the two numbers will be deducted
-# what if I have dum dum user? I say 'sorry, cannot'
-# ask the user again :D
-# then reupdate the value inside the function
-
-
-# this was I want it to be... output?
-# I want the results to be displayed, what is it? and done.
-
-# so... first user input, then the input is taken to another box
-# then that box, uh, show me?
-
 def user_input():
     first_number = int(input('hi user, input 1st number pls? \n'))
     second_number = int(input('hi user, input 2nd number pls? \n'))
